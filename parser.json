@@ -1,6 +1,6 @@
 {
-  "lang": "tcl",
-  "url": "https://github.com/tree-sitter-grammars/tree-sitter-tcl",
   "semver": false,
-  "parser_version": "8f11ac7206a54ed11210491cee1e0657e2962c47"
+  "parser_version": "8f11ac7206a54ed11210491cee1e0657e2962c47",
+  "lang": "tcl",
+  "url": "https://github.com/tree-sitter-grammars/tree-sitter-tcl"
 }
